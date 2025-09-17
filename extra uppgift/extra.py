@@ -1,0 +1,6 @@
+name1 = (input("Ge mig 1 namn"))
+name2 = (input("Ge mig 1 namn"))
+name3 = (input("Ge mig 1 namn"))
+name4 = (input("Ge mig 1 namn"))
+name5 = (input("Ge mig 1 namn"))
+print(name1 + name2 + name3 + name4 + name5)
