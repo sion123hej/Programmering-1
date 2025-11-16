@@ -17,6 +17,7 @@ tries = 7
 
 #cls
 print(f"{bcolors.YELLOW}Välkommen till gissa talet!")
+print(f"{bcolors.YELLOW}Du har 7 försök på dig!")
 secret_number = random.randint(1,100)
 
 while tries > 0:
